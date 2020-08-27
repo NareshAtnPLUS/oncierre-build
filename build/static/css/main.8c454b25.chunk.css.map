@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,QAAS,CAET,kCAAmC,CACnC,iCACF,CAEA,UALE,sBAOF","file":"main.8c454b25.chunk.css","sourcesContent":["body {\r\n  margin: 0;\r\n  font-family:  'Segoe UI';\r\n  -webkit-font-smoothing: antialiased;\r\n  -moz-osx-font-smoothing: grayscale;\r\n}\r\n\r\ncode {\r\n  font-family: 'Segoe UI';\r\n}\r\n"]}
